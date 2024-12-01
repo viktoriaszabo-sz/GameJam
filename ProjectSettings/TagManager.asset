@@ -3,16 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Backround
+  - Backround_details
+  - Walls
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Backround
   - Water
   - UI
-  - 
-  - 
+  - Backround_details
+  - Walls
   - 
   - 
   - 
@@ -40,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Backround
+    uniqueID: 2716978855
+    locked: 0
+  - name: Backround_details
+    uniqueID: 4093757111
+    locked: 0
+  - name: Walls
+    uniqueID: 2855644219
     locked: 0

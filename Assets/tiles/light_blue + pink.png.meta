@@ -1,0 +1,3053 @@
+fileFormatVersion: 2
+guid: 26038383dd952ba4984e95a84ea559d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light_blue + pink_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418229a7c6ced154b9864c323e3a3adf
+      internalID: -1299325740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab5384e4aa67941b9c005143f784ef
+      internalID: -1894775877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167495e708973d5449620fa346e7ec45
+      internalID: 12834717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f416b0ffe2074b882575f556bffa5
+      internalID: -1267530235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbff3f20c7ad254ca23666461dfad63
+      internalID: -1488618109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a885cb8e0082694796db7128860dea8
+      internalID: -1801147482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8ac54756e973e48896b1500065f9b5
+      internalID: 298964720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de90ff9aca8474a40ad8937229a60712
+      internalID: 222144991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b947d6f41d3941a89b240f9ba5f0e
+      internalID: 1098936950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53422b9f4f21214684116a929c88722
+      internalID: -205472144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd65abc61d82664fa0c10a2fb12e8b1
+      internalID: -205692217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d257a85c8be26c43b9c7c06ed3d2b66
+      internalID: -100420606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5a426fddec7542972b6253c7f7bd8
+      internalID: 478857456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b93b1a22cf705498bb8de8ca98f540
+      internalID: -1439969650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7589b96a3e9ec4196acbe3a1dfd12b
+      internalID: 1386031315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec0da14ca17c94691241860c888853
+      internalID: -339271650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b4790c565428b48a6c6c43e10c4436
+      internalID: 1242267167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3dea162f8e8842ad330518efdc4eb
+      internalID: 1156657261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10aadc66253cc044a649109b5e9b847
+      internalID: 238693974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d1dbd89ab3db42a7117ff24127a73
+      internalID: 2106378631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74031eb7d2695014396bf27bf6339b63
+      internalID: 2146213286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae01410ccee234b9e4090f040f863e
+      internalID: 1669251337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c61436517083949a7a8bc2df8f61bc
+      internalID: -2092495755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba995d088e95e264eb16bf2401eeab85
+      internalID: -1813892751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0649c644d189f4a8dc36fe9219eba3
+      internalID: 1976758658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed31ac164781546b8302bf7a35d862
+      internalID: 1340166319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34989110199d3a8458e76544740460a4
+      internalID: 1036841976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c69e7fa124d67344bcb2254ced8a4ff
+      internalID: -219852574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e4e09d3c9f524ea7340f8e175f0d7
+      internalID: 1746961145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080309b84292994681cbbc263fc27e9
+      internalID: -1445763958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb3c7034b447f458d24859d9352fc4
+      internalID: 739300299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc77001a623424f8de26b1c566fc60
+      internalID: -1385605504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe95632697ac3340af4c006ce26966f
+      internalID: 1579660651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fdb656edda24d4d80f0d245ad6a6db
+      internalID: -545077244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb99ebf3bc33c48bd87d9e3b1b7ade
+      internalID: -348006849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837d3bebad5b094292c28bbf1a731b9
+      internalID: -978640836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3744bef61c1b846be836d1635d5d81
+      internalID: 1142278242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fc35539ec614a4da29c5dcd7094d73
+      internalID: 144885079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1414317eeacc34cb9e76d506f14f6a
+      internalID: 786167764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53414347f565041bd2610ec39dcca0
+      internalID: 1155599014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ab56067ead5c4c979df371498a151
+      internalID: 550649875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a59639c309944492d43fce090f601
+      internalID: -1226773256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90c5c79ad74984098260cde0694953
+      internalID: 564231967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c843425dc7730142b55f502fa97fcbb
+      internalID: -771392385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ae7bf73b5f3247a19615f9299767b
+      internalID: -1739782153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48920b7f2489542b9a8a81705a8736
+      internalID: -994893094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da554d0a8759446bab0d7d7cb9628e
+      internalID: -1355490883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584169460a31ddc43a0f24629a8b21d8
+      internalID: 345163103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cababd5e250ff8c48b58eb529472c00e
+      internalID: 1112470431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557c6f0e9e019c4685a0fdde4858476
+      internalID: 1963055174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada25b468f4a7e342875c92d1bbe394b
+      internalID: -2059913647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a415dc6f6f6924490598703b65ba29
+      internalID: -1544618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e658cf97924a48a0ecb6a8cd10f44
+      internalID: 446096176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef3a9843d133745849a5919dc5270f
+      internalID: 2110193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae49355a075acc4696558b509dad53f
+      internalID: -676927315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e156ecca9a74043b38813b8cf5623c
+      internalID: -536608383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415a9d03c8b6a146ae441062a39e558
+      internalID: 1645728720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517f0aaec49ab24f8c35049f5a20faf
+      internalID: -1478485270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45342e11c6f2d43bf04dad477fabb7
+      internalID: -1867419504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088ebe2600cc564a8bbd0821879c5d3
+      internalID: -769446130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ecbb51c0424a46bc75b2a12b0e4d1
+      internalID: -2011150555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f67f9a59a267e49b437efa9cb823de
+      internalID: -1959595063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad92800d8a71a648b56d0aaf0ad2be9
+      internalID: 1163357967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f6fcebca0e541469b00922678981d4
+      internalID: 976857208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5062cb74c1004680091fd2cc082af
+      internalID: -681887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cb2725210271498f1ed73bb34fdeb
+      internalID: -2028157509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55755d05981fe44e962feec0bb66518
+      internalID: 515891722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cb6084b5df99e4c9cba8fe4fddf224
+      internalID: 1889671736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e85555f51f5c84d98d576116c7433a
+      internalID: -1260322644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d360e4096147d14ab8b0d5324332f83
+      internalID: 359733653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f7ec474345cd4599ed6af417907b2
+      internalID: -1489944772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bbf06f44ae304a91514b63f1d5cce
+      internalID: 826226891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9901751b56fc4c906e7355e7d0dcc
+      internalID: -1138658918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c13a9ff38e51e499bfdc717ef1040e
+      internalID: -776319725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176cf1dfc33cf97429f9964852797981
+      internalID: -1036361930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a46e3648de720c44aade4f239b9bac5
+      internalID: -697861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579374732b39104bb6a8b825640712f
+      internalID: -1990733864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4cbe7ea74a22499a71910a9ecf252
+      internalID: 1222958677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8af3deea1f604f86b68aa2d78222d
+      internalID: 995335047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c1425b2180d24b9c6da3706c64309
+      internalID: -301606356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ccf34d400f584c854eb5f65a7d47b
+      internalID: 2029468536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f527c11b44bc44843bbe0f11ccf0b
+      internalID: -866529390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866cab46690d3ba4894d5a12a41e3ed0
+      internalID: 69667340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79564e43b368432449822feb2ebaafee
+      internalID: 1357157782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b9614b1bf1b24a92105d8dfeb2f0f
+      internalID: -682169853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a881994b751234cb4c106a28fe661f
+      internalID: -449109006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f6a4adbe47ec4f92834063d99ef03
+      internalID: -1477212517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_87
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e955ba97ad844eb4ea5b15eae5032
+      internalID: 1481977385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500aae52f927dd046a2c8e22da2d296a
+      internalID: 2068932173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedebe486970e6143bac4463fc8d4810
+      internalID: -1536694492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5156fb30988bea4e89cddb42dc2c0b5
+      internalID: 390752909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e63e50ffb23364888bd71a27800a79
+      internalID: -1923784857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f108e74915af5244b161b571023612f
+      internalID: -2098418622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f1ba0c9892fa4ca4b80e60bafbfaf
+      internalID: -490831356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_94
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7076ed335371bb4e8e9686dfeefb9b9
+      internalID: 1357231653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e6959d1d781241a29017e9912063a
+      internalID: 19337240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246025172ce5bc429f884faf8fbb872
+      internalID: 1818619622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03880c1e255f8459e738c824c21fe3
+      internalID: 567435008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e66aacdb7a754fa238b0bdb309196
+      internalID: -736518202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ccea0b8bca5dc4bb45d79b14f2c303
+      internalID: -1002845030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_100
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb457c702b5fdd9428999c8ce65291ff
+      internalID: 1103840429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef6fec079514824cb21f470d7ad7616
+      internalID: 1750351562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_102
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f021441a49dd45bebbbdfdb217545
+      internalID: 1816915625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_103
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953bae9677b05147b4c89cb209393d8
+      internalID: 778143078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_104
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374ce15cec69e04dbf3f3fa9d73aa0b
+      internalID: 1691944429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417086b3a651d82498185310eab4fc22
+      internalID: -715339843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572b5f609ea3c547b829fa0804b0859
+      internalID: 234894094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34204576a75064c95d9a465aec19fa
+      internalID: 1861950950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_108
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782c7deb86b03b4698c0bcb4c639ede
+      internalID: -39353857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_109
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30b6369cd48724bb6e46bd8a4e332a
+      internalID: 1250721180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d16bf57f7a8794187d9841cd0fa149
+      internalID: -1736395188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ef3630533b2e429ec71312e9abd67
+      internalID: 1863497126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f21c6173040284db5836ca614aca79
+      internalID: -733157452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31690e3847ecc6a4c9f55861cd42d6db
+      internalID: -323987037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_114
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0dece83e1c0846ae4e8bb7cff7b3c
+      internalID: 1377578516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_115
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158079f9e9d81ff46a668f61fc5287f2
+      internalID: -1722546622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_116
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d33cc435224314cb3ca604735d509f
+      internalID: 516294906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aff52cd34d30d49926ea6982ae7252
+      internalID: 1417210930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_118
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081b4a11b328ab4dac864e8ca53ac63
+      internalID: -1852403907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_119
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c067638c484bdc46ba3706df114a158
+      internalID: 98040998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_120
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a634650922254ba3458d3b467f9fc
+      internalID: 1177327650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b33e926e9b39e43b1b16e206fc4c20
+      internalID: 748249067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15187e21ed680814c84b3543bfead4dc
+      internalID: -876814828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_123
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881ed25d9ba4434995963ce954e1a8c
+      internalID: -209788618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_124
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60fa39528403424e9c48fe8ef3da471
+      internalID: -733659179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74206ae154f4f9641809d3e6573de456
+      internalID: -1334892178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ffcd404432104284fb59c9e1f5470
+      internalID: 1958612626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1bb670f50265849a746a8fdf15da12
+      internalID: -470451778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_128
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c03441d936e6478b53e153a82c4a4
+      internalID: -1594013387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_129
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3df2d40b1f0174383715da250e7e84
+      internalID: 992353357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78275387a08db4f94f29826881f651
+      internalID: 251934493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_131
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843ec8266c2d6c459245aedd25f1658
+      internalID: 214551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue + pink_132
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6f593d6148d345b535271c01fb225
+      internalID: -1551655235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      light_blue + pink_0: -1299325740
+      light_blue + pink_1: -1894775877
+      light_blue + pink_10: -205692217
+      light_blue + pink_100: 1103840429
+      light_blue + pink_101: 1750351562
+      light_blue + pink_102: 1816915625
+      light_blue + pink_103: 778143078
+      light_blue + pink_104: 1691944429
+      light_blue + pink_105: -715339843
+      light_blue + pink_106: 234894094
+      light_blue + pink_107: 1861950950
+      light_blue + pink_108: -39353857
+      light_blue + pink_109: 1250721180
+      light_blue + pink_11: -100420606
+      light_blue + pink_110: -1736395188
+      light_blue + pink_111: 1863497126
+      light_blue + pink_112: -733157452
+      light_blue + pink_113: -323987037
+      light_blue + pink_114: 1377578516
+      light_blue + pink_115: -1722546622
+      light_blue + pink_116: 516294906
+      light_blue + pink_117: 1417210930
+      light_blue + pink_118: -1852403907
+      light_blue + pink_119: 98040998
+      light_blue + pink_12: 478857456
+      light_blue + pink_120: 1177327650
+      light_blue + pink_121: 748249067
+      light_blue + pink_122: -876814828
+      light_blue + pink_123: -209788618
+      light_blue + pink_124: -733659179
+      light_blue + pink_125: -1334892178
+      light_blue + pink_126: 1958612626
+      light_blue + pink_127: -470451778
+      light_blue + pink_128: -1594013387
+      light_blue + pink_129: 992353357
+      light_blue + pink_13: -1439969650
+      light_blue + pink_130: 251934493
+      light_blue + pink_131: 214551217
+      light_blue + pink_132: -1551655235
+      light_blue + pink_14: 1386031315
+      light_blue + pink_15: -339271650
+      light_blue + pink_16: 1242267167
+      light_blue + pink_17: 1156657261
+      light_blue + pink_18: 238693974
+      light_blue + pink_19: 2106378631
+      light_blue + pink_2: 12834717
+      light_blue + pink_20: 2146213286
+      light_blue + pink_21: 1669251337
+      light_blue + pink_22: -2092495755
+      light_blue + pink_23: -1813892751
+      light_blue + pink_24: 1976758658
+      light_blue + pink_25: 1340166319
+      light_blue + pink_26: 1036841976
+      light_blue + pink_27: -219852574
+      light_blue + pink_28: 1746961145
+      light_blue + pink_29: -1445763958
+      light_blue + pink_3: -1267530235
+      light_blue + pink_30: 739300299
+      light_blue + pink_31: -1385605504
+      light_blue + pink_32: 1579660651
+      light_blue + pink_33: -545077244
+      light_blue + pink_34: -348006849
+      light_blue + pink_35: -978640836
+      light_blue + pink_36: 1142278242
+      light_blue + pink_37: 144885079
+      light_blue + pink_38: 786167764
+      light_blue + pink_39: 1155599014
+      light_blue + pink_4: -1488618109
+      light_blue + pink_40: 550649875
+      light_blue + pink_41: -1226773256
+      light_blue + pink_42: 564231967
+      light_blue + pink_43: -771392385
+      light_blue + pink_44: -1739782153
+      light_blue + pink_45: -994893094
+      light_blue + pink_46: -1355490883
+      light_blue + pink_47: 345163103
+      light_blue + pink_48: 1112470431
+      light_blue + pink_49: 1963055174
+      light_blue + pink_5: -1801147482
+      light_blue + pink_50: -2059913647
+      light_blue + pink_51: -1544618872
+      light_blue + pink_52: 446096176
+      light_blue + pink_53: 2110193018
+      light_blue + pink_54: -676927315
+      light_blue + pink_55: -536608383
+      light_blue + pink_56: 1645728720
+      light_blue + pink_57: -1478485270
+      light_blue + pink_58: -1867419504
+      light_blue + pink_59: -769446130
+      light_blue + pink_6: 298964720
+      light_blue + pink_60: -2011150555
+      light_blue + pink_61: -1959595063
+      light_blue + pink_62: 1163357967
+      light_blue + pink_63: 976857208
+      light_blue + pink_64: -681887
+      light_blue + pink_65: -2028157509
+      light_blue + pink_66: 515891722
+      light_blue + pink_67: 1889671736
+      light_blue + pink_68: -1260322644
+      light_blue + pink_69: 359733653
+      light_blue + pink_7: 222144991
+      light_blue + pink_70: -1489944772
+      light_blue + pink_71: 826226891
+      light_blue + pink_72: -1138658918
+      light_blue + pink_73: -776319725
+      light_blue + pink_74: -1036361930
+      light_blue + pink_75: -697861173
+      light_blue + pink_76: -1990733864
+      light_blue + pink_77: 1222958677
+      light_blue + pink_78: 995335047
+      light_blue + pink_79: -301606356
+      light_blue + pink_8: 1098936950
+      light_blue + pink_80: 2029468536
+      light_blue + pink_81: -866529390
+      light_blue + pink_82: 69667340
+      light_blue + pink_83: 1357157782
+      light_blue + pink_84: -682169853
+      light_blue + pink_85: -449109006
+      light_blue + pink_86: -1477212517
+      light_blue + pink_87: 1481977385
+      light_blue + pink_88: 2068932173
+      light_blue + pink_89: -1536694492
+      light_blue + pink_9: -205472144
+      light_blue + pink_90: 390752909
+      light_blue + pink_91: -1923784857
+      light_blue + pink_92: -2098418622
+      light_blue + pink_93: -490831356
+      light_blue + pink_94: 1357231653
+      light_blue + pink_95: 19337240
+      light_blue + pink_96: 1818619622
+      light_blue + pink_97: 567435008
+      light_blue + pink_98: -736518202
+      light_blue + pink_99: -1002845030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
