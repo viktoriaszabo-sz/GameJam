@@ -7,7 +7,7 @@ using TMPro;
 public class finalWord : MonoBehaviour
 {
     public TMP_InputField[] inputFields;
-    public string solutionWord = "CAVITY";
+    public string solutionWord = "SWEETS";
     public TMP_Text feedbackText;
 
     private void Start()
